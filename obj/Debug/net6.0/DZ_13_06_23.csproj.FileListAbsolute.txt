@@ -1,0 +1,15 @@
+C:\Users\defro\OneDrive\Рабочий стол\DZ_13_06_23\obj\Debug\net6.0\DZ_13_06_23.csproj.AssemblyReference.cache
+C:\Users\defro\OneDrive\Рабочий стол\DZ_13_06_23\obj\Debug\net6.0\DZ_13_06_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defro\OneDrive\Рабочий стол\DZ_13_06_23\obj\Debug\net6.0\DZ_13_06_23.AssemblyInfoInputs.cache
+C:\Users\defro\OneDrive\Рабочий стол\DZ_13_06_23\obj\Debug\net6.0\DZ_13_06_23.AssemblyInfo.cs
+C:\Users\defro\OneDrive\Рабочий стол\DZ_13_06_23\obj\Debug\net6.0\DZ_13_06_23.csproj.CoreCompileInputs.cache
+C:\Users\defro\OneDrive\Рабочий стол\DZ_13_06_23\bin\Debug\net6.0\DZ_13_06_23.exe
+C:\Users\defro\OneDrive\Рабочий стол\DZ_13_06_23\bin\Debug\net6.0\DZ_13_06_23.deps.json
+C:\Users\defro\OneDrive\Рабочий стол\DZ_13_06_23\bin\Debug\net6.0\DZ_13_06_23.runtimeconfig.json
+C:\Users\defro\OneDrive\Рабочий стол\DZ_13_06_23\bin\Debug\net6.0\DZ_13_06_23.dll
+C:\Users\defro\OneDrive\Рабочий стол\DZ_13_06_23\bin\Debug\net6.0\DZ_13_06_23.pdb
+C:\Users\defro\OneDrive\Рабочий стол\DZ_13_06_23\obj\Debug\net6.0\DZ_13_06_23.dll
+C:\Users\defro\OneDrive\Рабочий стол\DZ_13_06_23\obj\Debug\net6.0\refint\DZ_13_06_23.dll
+C:\Users\defro\OneDrive\Рабочий стол\DZ_13_06_23\obj\Debug\net6.0\DZ_13_06_23.pdb
+C:\Users\defro\OneDrive\Рабочий стол\DZ_13_06_23\obj\Debug\net6.0\DZ_13_06_23.genruntimeconfig.cache
+C:\Users\defro\OneDrive\Рабочий стол\DZ_13_06_23\obj\Debug\net6.0\ref\DZ_13_06_23.dll
